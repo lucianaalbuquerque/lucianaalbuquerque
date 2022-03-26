@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucianaalbuquerque
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning React
 - 📫 How to reach me: lucianaalbuquerque12@gmail.com
 
 <!---
